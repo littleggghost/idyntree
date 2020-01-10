@@ -1,0 +1,25 @@
+var classiDynTree_1_1optimalcontrol_1_1LinearSystem =
+[
+    [ "LinearSystemPimpl", "classiDynTree_1_1optimalcontrol_1_1LinearSystem_1_1LinearSystemPimpl.html", "classiDynTree_1_1optimalcontrol_1_1LinearSystem_1_1LinearSystemPimpl" ],
+    [ "LinearSystem", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#a7f8c9018d0370a353f1e0a569332549a", null ],
+    [ "LinearSystem", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#a29645196589d2a947368e65c851c50bb", null ],
+    [ "~LinearSystem", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#a3b54605cdee404f440525437f1d1d65a", null ],
+    [ "isTimeVarying", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#acd05ec63c8ae14a0304ac99db4e1d312", null ],
+    [ "setConstantStateMatrix", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#a8021162b828c0e4a50f784b0394ee9ff", null ],
+    [ "setConstantControlMatrix", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#a53038612cea4e29c3b90f934608589a6", null ],
+    [ "setStateMatrixForTimeRange", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#a41b7f748ab7fe36c965d42676333e69e", null ],
+    [ "setStateMatricesForTimeRanges", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#a50c0c1649336eec308c86d578a3fd917", null ],
+    [ "stateMatrix", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#ac4d94ff5d531757cd844c982b2d15850", null ],
+    [ "controlMatrix", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#a0f093d0b76a52d42d33fcc9caccdc7a5", null ],
+    [ "dynamics", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#aa3209d7f34069aa2aa546365ef545a79", null ],
+    [ "dynamicsStateFirstDerivative", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#a76a9c30fff3fcaf4a870d425a51379cd", null ],
+    [ "dynamicsControlFirstDerivative", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#a99531710cd128195af3e8b37cda1c699", null ],
+    [ "stateSpaceSize", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#a1fdc25cc07f3bc2d02ac0cc2c74e8abc", null ],
+    [ "controlSpaceSize", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#ae9048969fa6bb586f08332aa279ac01a", null ],
+    [ "setControlInput", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#a1d4cfff710d3a77308992878408ca87b", null ],
+    [ "controlInput", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#ac130f0cfaa6a5843fdbcb944493b7951", null ],
+    [ "controlInput", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#a165aa744348a711a192333374a5b938b", null ],
+    [ "initialState", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#ae62cb69e88b5598944dffd5c9f8336b4", null ],
+    [ "initialState", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#a91ba05fa8d7fd40b9336f33130ec48ed", null ],
+    [ "setInitialState", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html#abb552b6be02127013c69f1106ad09497", null ]
+];

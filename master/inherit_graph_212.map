@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classiDynTree_1_1VectorFixSize.html" title="Class providing a simple vector of N elements. " alt="" coords="5,49,179,90"/>
+<area shape="rect" id="node2" href="$classiDynTree_1_1ClassicalAcc.html" title="Class representing a classical 6D acceleration, i.e. " alt="" coords="227,5,395,32"/>
+<area shape="rect" id="node3" href="$classiDynTree_1_1Direction.html" title="Class representing the coordinates of a direction in the 3D space. " alt="" coords="237,56,384,83"/>
+<area shape="rect" id="node4" href="$classiDynTree_1_1PositionRaw.html" title="Class providing the raw coordinates for iDynTree::Position class. " alt="" coords="227,107,394,133"/>
+<area shape="rect" id="node5" href="$classiDynTree_1_1Position.html" title="Class representation the coordinates of the Position of a point with respect to another point..." alt="" coords="443,107,581,133"/>
+</map>

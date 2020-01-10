@@ -1,0 +1,28 @@
+var namespaceiDynTree_1_1optimalcontrol =
+[
+    [ "integrators", "namespaceiDynTree_1_1optimalcontrol_1_1integrators.html", "namespaceiDynTree_1_1optimalcontrol_1_1integrators" ],
+    [ "BufferedGroup", "structiDynTree_1_1optimalcontrol_1_1BufferedGroup.html", "structiDynTree_1_1optimalcontrol_1_1BufferedGroup" ],
+    [ "Constraint", "classiDynTree_1_1optimalcontrol_1_1Constraint.html", "classiDynTree_1_1optimalcontrol_1_1Constraint" ],
+    [ "ConstraintsGroup", "classiDynTree_1_1optimalcontrol_1_1ConstraintsGroup.html", "classiDynTree_1_1optimalcontrol_1_1ConstraintsGroup" ],
+    [ "ControlledDynamicalSystem", "classiDynTree_1_1optimalcontrol_1_1ControlledDynamicalSystem.html", "classiDynTree_1_1optimalcontrol_1_1ControlledDynamicalSystem" ],
+    [ "Controller", "classiDynTree_1_1optimalcontrol_1_1Controller.html", "classiDynTree_1_1optimalcontrol_1_1Controller" ],
+    [ "Cost", "classiDynTree_1_1optimalcontrol_1_1Cost.html", "classiDynTree_1_1optimalcontrol_1_1Cost" ],
+    [ "DerivedDynamicalSystem", "classiDynTree_1_1optimalcontrol_1_1DerivedDynamicalSystem.html", "classiDynTree_1_1optimalcontrol_1_1DerivedDynamicalSystem" ],
+    [ "DynamicalSystem", "classiDynTree_1_1optimalcontrol_1_1DynamicalSystem.html", "classiDynTree_1_1optimalcontrol_1_1DynamicalSystem" ],
+    [ "LinearConstraint", "classiDynTree_1_1optimalcontrol_1_1LinearConstraint.html", "classiDynTree_1_1optimalcontrol_1_1LinearConstraint" ],
+    [ "LinearMPC", "classiDynTree_1_1optimalcontrol_1_1LinearMPC.html", null ],
+    [ "LinearSystem", "classiDynTree_1_1optimalcontrol_1_1LinearSystem.html", "classiDynTree_1_1optimalcontrol_1_1LinearSystem" ],
+    [ "MeshPoint", "structiDynTree_1_1optimalcontrol_1_1MeshPoint.html", "structiDynTree_1_1optimalcontrol_1_1MeshPoint" ],
+    [ "MeshPointOrigin", "classiDynTree_1_1optimalcontrol_1_1MeshPointOrigin.html", "classiDynTree_1_1optimalcontrol_1_1MeshPointOrigin" ],
+    [ "MPC", "classiDynTree_1_1optimalcontrol_1_1MPC.html", null ],
+    [ "MultiBodySystem", "classiDynTree_1_1optimalcontrol_1_1MultiBodySystem.html", "classiDynTree_1_1optimalcontrol_1_1MultiBodySystem" ],
+    [ "MultipleShootingSolver", "classiDynTree_1_1optimalcontrol_1_1MultipleShootingSolver.html", "classiDynTree_1_1optimalcontrol_1_1MultipleShootingSolver" ],
+    [ "MultipleShootingTranscription", "classiDynTree_1_1optimalcontrol_1_1MultipleShootingTranscription.html", "classiDynTree_1_1optimalcontrol_1_1MultipleShootingTranscription" ],
+    [ "OptimalControlProblem", "classiDynTree_1_1optimalcontrol_1_1OptimalControlProblem.html", "classiDynTree_1_1optimalcontrol_1_1OptimalControlProblem" ],
+    [ "OptimalControlSolver", "classiDynTree_1_1optimalcontrol_1_1OptimalControlSolver.html", "classiDynTree_1_1optimalcontrol_1_1OptimalControlSolver" ],
+    [ "QuadraticCost", "classiDynTree_1_1optimalcontrol_1_1QuadraticCost.html", "classiDynTree_1_1optimalcontrol_1_1QuadraticCost" ],
+    [ "SystemLineariser", "classiDynTree_1_1optimalcontrol_1_1SystemLineariser.html", null ],
+    [ "TimedConstraint", "structiDynTree_1_1optimalcontrol_1_1TimedConstraint.html", "structiDynTree_1_1optimalcontrol_1_1TimedConstraint" ],
+    [ "TimedCost", "structiDynTree_1_1optimalcontrol_1_1TimedCost.html", "structiDynTree_1_1optimalcontrol_1_1TimedCost" ],
+    [ "TimeRange", "classiDynTree_1_1optimalcontrol_1_1TimeRange.html", "classiDynTree_1_1optimalcontrol_1_1TimeRange" ]
+];

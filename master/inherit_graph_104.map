@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classiDynTree_1_1MatrixFixSize.html" title="Class providing a simple form of matrix with dynamic size. " alt="" coords="5,78,179,119"/>
+<area shape="rect" id="node2" href="$classiDynTree_1_1RotationalInertiaRaw.html" title="Class providing the raw coordinates for a 3d inertia matrix. " alt="" coords="227,5,449,32"/>
+<area shape="rect" id="node3" href="$classiDynTree_1_1RotationRaw.html" title="Class providing the raw coordinates for iDynTree::Rotation class. " alt="" coords="253,56,423,83"/>
+<area shape="rect" id="node5" href="$classiDynTree_1_1SpatialForceWrtMotionDerivative.html" title="Class representing the derivative of a spatial force vector with respect to a spatial motion vector..." alt="" coords="243,107,433,149"/>
+<area shape="rect" id="node6" href="$classiDynTree_1_1SpatialMotionWrtMotionDerivative.html" title="Class representing the derivative of a spatial motion vector with respect to another spatial motion v..." alt="" coords="239,173,437,214"/>
+<area shape="rect" id="node4" href="$classiDynTree_1_1Rotation.html" title="Class representation the rotation of an orientation frame with respect to a reference orientation fra..." alt="" coords="497,56,639,83"/>
+</map>

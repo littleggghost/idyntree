@@ -1,0 +1,17 @@
+<map id="BoundingBoxHelpers.h" name="BoundingBoxHelpers.h">
+<area shape="rect" id="node4" href="$MatrixDynSize_8h.html" title="iDynTree/Core/MatrixDynSize.h" alt="" coords="431,155,654,181"/>
+<area shape="rect" id="node5" href="$Position_8h.html" title="iDynTree/Core/Position.h" alt="" coords="432,229,613,256"/>
+<area shape="rect" id="node27" href="$Transform_8h.html" title="iDynTree/Core/Transform.h" alt="" coords="679,155,873,181"/>
+<area shape="rect" id="node29" href="$VectorDynSize_8h.html" title="iDynTree/Core/VectorDynSize.h" alt="" coords="1027,229,1250,256"/>
+<area shape="rect" id="node30" href="$ConvexHullHelpers_8h.html" title="iDynTree/ConvexHullHelpers.h" alt="" coords="806,80,1026,107"/>
+<area shape="rect" id="node6" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="245,379,453,405"/>
+<area shape="rect" id="node21" href="$PositionSemantics_8h.html" title="iDynTree/Core/PositionSemantics.h" alt="" coords="395,304,645,331"/>
+<area shape="rect" id="node22" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="685,304,867,331"/>
+<area shape="rect" id="node7" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="966,453,1181,480"/>
+<area shape="rect" id="node8" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="1131,528,1290,555"/>
+<area shape="rect" id="node10" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="1470,528,1631,555"/>
+<area shape="rect" id="node23" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="528,379,739,405"/>
+<area shape="rect" id="node26" href="$RotationSemantics_8h.html" title="iDynTree/Core/RotationSemantics.h" alt="" coords="539,453,789,480"/>
+<area shape="rect" id="node24" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="1205,453,1419,480"/>
+<area shape="rect" id="node28" href="$TransformSemantics_8h.html" title="iDynTree/Core/TransformSemantics.h" alt="" coords="145,229,407,256"/>
+</map>

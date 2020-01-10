@@ -1,0 +1,8 @@
+<map id="iDynTree::Visualizer::VisualizerPimpl" name="iDynTree::Visualizer::VisualizerPimpl">
+<area shape="rect" id="node2" href="$classiDynTree_1_1DummyCamera.html" title="Dummy camera. " alt="" coords="5,81,196,108"/>
+<area shape="rect" id="node3" href="$classiDynTree_1_1ICamera.html" title="Interface to manipulate the camera parameters. " alt="" coords="29,5,172,32"/>
+<area shape="rect" id="node4" href="$classiDynTree_1_1DummyEnvironment.html" title="Dummy environment. " alt="" coords="220,81,443,108"/>
+<area shape="rect" id="node5" href="$classiDynTree_1_1IEnvironment.html" title="Interface to manipulate the elements in the enviroment (background, root frame, reference lines) ..." alt="" coords="244,5,419,32"/>
+<area shape="rect" id="node6" href="$classiDynTree_1_1DummyModelVisualization.html" title="Dummy model visualization. " alt="" coords="467,81,729,108"/>
+<area shape="rect" id="node7" href="$classiDynTree_1_1IModelVisualization.html" title="Interface to the visualization of a model istance. " alt="" coords="491,5,705,32"/>
+</map>

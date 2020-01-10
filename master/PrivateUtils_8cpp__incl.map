@@ -1,0 +1,31 @@
+<map id="PrivateUtils.cpp" name="PrivateUtils.cpp">
+<area shape="rect" id="node2" href="$PrivateUtils_8h.html" title="iDynTree/Core/PrivateUtils.h" alt="" coords="505,80,710,107"/>
+<area shape="rect" id="node4" href="$EigenHelpers_8h.html" title="iDynTree/Core/EigenHelpers.h" alt="" coords="776,155,991,181"/>
+<area shape="rect" id="node5" href="$VectorDynSize_8h.html" title="iDynTree/Core/VectorDynSize.h" alt="" coords="2292,661,2515,688"/>
+<area shape="rect" id="node17" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="1245,661,1460,688"/>
+<area shape="rect" id="node18" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="628,811,787,837"/>
+<area shape="rect" id="node21" href="$MatrixDynSize_8h.html" title="iDynTree/Core/MatrixDynSize.h" alt="" coords="2649,736,2872,763"/>
+<area shape="rect" id="node22" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="991,736,1205,763"/>
+<area shape="rect" id="node24" href="$SpatialMotionVector_8h.html" title="iDynTree/Core/SpatialMotion\lVector.h" alt="" coords="929,229,1136,271"/>
+<area shape="rect" id="node39" href="$SpatialForceVector_8h.html" title="iDynTree/Core/SpatialForce\lVector.h" alt="" coords="607,229,805,271"/>
+<area shape="rect" id="node43" href="$Transform_8h.html" title="iDynTree/Core/Transform.h" alt="" coords="1718,408,1913,435"/>
+<area shape="rect" id="node6" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="1340,736,1501,763"/>
+<area shape="rect" id="node25" href="$LinearMotionVector3_8h.html" title="iDynTree/Core/LinearMotion\lVector3.h" alt="" coords="1235,319,1436,360"/>
+<area shape="rect" id="node31" href="$PrivateMotionForceVertorAssociations_8h.html" title="iDynTree/Core/PrivateMotion\lForceVertorAssociations.h" alt="" coords="844,572,1051,613"/>
+<area shape="rect" id="node32" href="$AngularMotionVector3_8h.html" title="iDynTree/Core/AngularMotion\lVector3.h" alt="" coords="999,319,1210,360"/>
+<area shape="rect" id="node33" href="$SpatialVector_8h.html" title="iDynTree/Core/SpatialVector.h" alt="" coords="336,408,551,435"/>
+<area shape="rect" id="node26" href="$MotionVector3_8h.html" title="iDynTree/Core/MotionVector3.h" alt="" coords="1089,408,1312,435"/>
+<area shape="rect" id="node27" href="$GeomVector3_8h.html" title="iDynTree/Core/GeomVector3.h" alt="" coords="1117,490,1335,517"/>
+<area shape="rect" id="node28" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="1613,579,1796,606"/>
+<area shape="rect" id="node29" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="1485,661,1695,688"/>
+<area shape="rect" id="node30" href="$RotationSemantics_8h.html" title="iDynTree/Core/RotationSemantics.h" alt="" coords="1678,736,1929,763"/>
+<area shape="rect" id="node34" href="$Position_8h.html" title="Position.h" alt="" coords="1847,490,1933,517"/>
+<area shape="rect" id="node37" href="$PrivatePreProcessorUtils_8h.html" title="iDynTree/Core/PrivatePre\lProcessorUtils.h" alt="" coords="487,572,671,613"/>
+<area shape="rect" id="node38" href="$PrivateSemanticsMacros_8h.html" title="iDynTree/Core/PrivateSemantics\lMacros.h" alt="" coords="387,483,617,524"/>
+<area shape="rect" id="node35" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="1821,579,2029,606"/>
+<area shape="rect" id="node36" href="$PositionSemantics_8h.html" title="iDynTree/Core/PositionSemantics.h" alt="" coords="2019,661,2268,688"/>
+<area shape="rect" id="node40" href="$LinearForceVector3_8h.html" title="iDynTree/Core/LinearForce\lVector3.h" alt="" coords="733,319,925,360"/>
+<area shape="rect" id="node42" href="$AngularForceVector3_8h.html" title="iDynTree/Core/AngularForce\lVector3.h" alt="" coords="506,319,709,360"/>
+<area shape="rect" id="node41" href="$ForceVector3_8h.html" title="iDynTree/Core/ForceVector3.h" alt="" coords="727,408,941,435"/>
+<area shape="rect" id="node44" href="$TransformSemantics_8h.html" title="iDynTree/Core/TransformSemantics.h" alt="" coords="2471,490,2733,517"/>
+</map>

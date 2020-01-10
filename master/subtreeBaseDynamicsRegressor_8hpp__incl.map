@@ -1,0 +1,32 @@
+<map id="subtreeBaseDynamicsRegressor.hpp" name="subtreeBaseDynamicsRegressor.hpp">
+<area shape="rect" id="node4" href="$dynamicRegressorInterface_8hpp.html" title="dynamicRegressorInterface.hpp" alt="" coords="397,80,625,107"/>
+<area shape="rect" id="node8" href="$Sensors_8h.html" title="iDynTree/Sensors/Sensors.h" alt="" coords="1037,155,1238,181"/>
+<area shape="rect" id="node39" href="$Transform_8h.html" title="iDynTree/Core/Transform.h" alt="" coords="871,393,1065,420"/>
+<area shape="rect" id="node5" href="$DynamicsRegressorParameters_8h.html" title="iDynTree/Regressors\l/DynamicsRegressorParameters.h" alt="" coords="535,304,777,345"/>
+<area shape="rect" id="node10" href="$VectorDynSize_8h.html" title="iDynTree/Core/VectorDynSize.h" alt="" coords="1538,721,1761,748"/>
+<area shape="rect" id="node20" href="$Model_8h.html" title="iDynTree/Model/Model.h" alt="" coords="1098,229,1275,256"/>
+<area shape="rect" id="node22" href="$Indices_8h.html" title="iDynTree/Model/Indices.h" alt="" coords="1511,393,1695,420"/>
+<area shape="rect" id="node11" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="1594,796,1755,823"/>
+<area shape="rect" id="node21" href="$IJoint_8h.html" title="iDynTree/Model/IJoint.h" alt="" coords="1348,311,1519,338"/>
+<area shape="rect" id="node23" href="$Link_8h.html" title="iDynTree/Model/Link.h" alt="" coords="1543,311,1708,338"/>
+<area shape="rect" id="node47" href="$SolidShapes_8h.html" title="iDynTree/Model/SolidShapes.h" alt="" coords="1005,311,1222,338"/>
+<area shape="rect" id="node24" href="$SpatialInertia_8h.html" title="iDynTree/Core/SpatialInertia.h" alt="" coords="2257,468,2473,495"/>
+<area shape="rect" id="node25" href="$SpatialInertiaRaw_8h.html" title="iDynTree/Core/SpatialInertia\lRaw.h" alt="" coords="1834,543,2038,584"/>
+<area shape="rect" id="node32" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="2074,721,2289,748"/>
+<area shape="rect" id="node33" href="$Twist_8h.html" title="iDynTree/Core/Twist.h" alt="" coords="2284,550,2447,577"/>
+<area shape="rect" id="node35" href="$SpatialMomentum_8h.html" title="iDynTree/Core/SpatialMomentum.h" alt="" coords="2724,550,2972,577"/>
+<area shape="rect" id="node37" href="$SpatialAcc_8h.html" title="iDynTree/Core/SpatialAcc.h" alt="" coords="2063,550,2260,577"/>
+<area shape="rect" id="node38" href="$Wrench_8h.html" title="iDynTree/Core/Wrench.h" alt="" coords="2522,550,2699,577"/>
+<area shape="rect" id="node26" href="$RotationalInertiaRaw_8h.html" title="iDynTree/Core/Rotational\lInertiaRaw.h" alt="" coords="1849,632,2031,673"/>
+<area shape="rect" id="node27" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="1835,721,2050,748"/>
+<area shape="rect" id="node28" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="1935,796,2094,823"/>
+<area shape="rect" id="node34" href="$SpatialMotionVector_8h.html" title="iDynTree/Core/SpatialMotion\lVector.h" alt="" coords="2078,632,2285,673"/>
+<area shape="rect" id="node36" href="$SpatialForceVector_8h.html" title="iDynTree/Core/SpatialForce\lVector.h" alt="" coords="2521,632,2719,673"/>
+<area shape="rect" id="node40" href="$Position_8h.html" title="Position.h" alt="" coords="795,468,882,495"/>
+<area shape="rect" id="node43" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="877,550,1059,577"/>
+<area shape="rect" id="node46" href="$TransformSemantics_8h.html" title="iDynTree/Core/TransformSemantics.h" alt="" coords="1026,468,1289,495"/>
+<area shape="rect" id="node41" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="917,639,1125,666"/>
+<area shape="rect" id="node42" href="$PositionSemantics_8h.html" title="iDynTree/Core/PositionSemantics.h" alt="" coords="686,721,935,748"/>
+<area shape="rect" id="node44" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="1200,639,1411,666"/>
+<area shape="rect" id="node45" href="$RotationSemantics_8h.html" title="iDynTree/Core/RotationSemantics.h" alt="" coords="960,721,1211,748"/>
+</map>

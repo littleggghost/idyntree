@@ -1,0 +1,31 @@
+<map id="SpatialInertia.h" name="SpatialInertia.h">
+<area shape="rect" id="node2" href="$SpatialInertiaRaw_8h.html" title="iDynTree/Core/SpatialInertia\lRaw.h" alt="" coords="519,80,723,121"/>
+<area shape="rect" id="node12" href="$VectorFixSize_8h.html" title="iDynTree/Core/VectorFixSize.h" alt="" coords="1089,601,1304,628"/>
+<area shape="rect" id="node21" href="$Twist_8h.html" title="iDynTree/Core/Twist.h" alt="" coords="1645,87,1807,114"/>
+<area shape="rect" id="node37" href="$SpatialMomentum_8h.html" title="iDynTree/Core/SpatialMomentum.h" alt="" coords="1151,87,1399,114"/>
+<area shape="rect" id="node42" href="$SpatialAcc_8h.html" title="iDynTree/Core/SpatialAcc.h" alt="" coords="1423,87,1621,114"/>
+<area shape="rect" id="node43" href="$Wrench_8h.html" title="iDynTree/Core/Wrench.h" alt="" coords="949,87,1127,114"/>
+<area shape="rect" id="node3" href="$RotationalInertiaRaw_8h.html" title="iDynTree/Core/Rotational\lInertiaRaw.h" alt="" coords="124,169,307,211"/>
+<area shape="rect" id="node4" href="$MatrixFixSize_8h.html" title="iDynTree/Core/MatrixFixSize.h" alt="" coords="775,676,989,703"/>
+<area shape="rect" id="node5" href="$Utils_8h.html" title="iDynTree/Core/Utils.h" alt="" coords="972,751,1131,777"/>
+<area shape="rect" id="node13" href="$Span_8h.html" title="iDynTree/Core/Span.h" alt="" coords="1513,676,1675,703"/>
+<area shape="rect" id="node22" href="$SpatialMotionVector_8h.html" title="iDynTree/Core/SpatialMotion\lVector.h" alt="" coords="1619,169,1825,211"/>
+<area shape="rect" id="node23" href="$LinearMotionVector3_8h.html" title="iDynTree/Core/LinearMotion\lVector3.h" alt="" coords="1391,259,1592,300"/>
+<area shape="rect" id="node29" href="$PrivateMotionForceVertorAssociations_8h.html" title="iDynTree/Core/PrivateMotion\lForceVertorAssociations.h" alt="" coords="1277,512,1484,553"/>
+<area shape="rect" id="node30" href="$AngularMotionVector3_8h.html" title="iDynTree/Core/AngularMotion\lVector3.h" alt="" coords="1617,259,1827,300"/>
+<area shape="rect" id="node31" href="$SpatialVector_8h.html" title="iDynTree/Core/SpatialVector.h" alt="" coords="701,348,916,375"/>
+<area shape="rect" id="node24" href="$MotionVector3_8h.html" title="iDynTree/Core/MotionVector3.h" alt="" coords="1493,348,1716,375"/>
+<area shape="rect" id="node25" href="$GeomVector3_8h.html" title="iDynTree/Core/GeomVector3.h" alt="" coords="1049,430,1267,457"/>
+<area shape="rect" id="node26" href="$Rotation_8h.html" title="iDynTree/Core/Rotation.h" alt="" coords="588,519,771,546"/>
+<area shape="rect" id="node27" href="$RotationRaw_8h.html" title="iDynTree/Core/RotationRaw.h" alt="" coords="510,601,721,628"/>
+<area shape="rect" id="node28" href="$RotationSemantics_8h.html" title="iDynTree/Core/RotationSemantics.h" alt="" coords="347,676,598,703"/>
+<area shape="rect" id="node32" href="$Position_8h.html" title="Position.h" alt="" coords="431,430,517,457"/>
+<area shape="rect" id="node35" href="$PrivatePreProcessorUtils_8h.html" title="iDynTree/Core/PrivatePre\lProcessorUtils.h" alt="" coords="46,512,230,553"/>
+<area shape="rect" id="node36" href="$PrivateSemanticsMacros_8h.html" title="iDynTree/Core/PrivateSemantics\lMacros.h" alt="" coords="176,423,407,464"/>
+<area shape="rect" id="node33" href="$PositionRaw_8h.html" title="iDynTree/Core/PositionRaw.h" alt="" coords="355,519,563,546"/>
+<area shape="rect" id="node34" href="$PositionSemantics_8h.html" title="iDynTree/Core/PositionSemantics.h" alt="" coords="84,601,333,628"/>
+<area shape="rect" id="node38" href="$SpatialForceVector_8h.html" title="iDynTree/Core/SpatialForce\lVector.h" alt="" coords="945,169,1142,211"/>
+<area shape="rect" id="node39" href="$LinearForceVector3_8h.html" title="iDynTree/Core/LinearForce\lVector3.h" alt="" coords="947,259,1139,300"/>
+<area shape="rect" id="node41" href="$AngularForceVector3_8h.html" title="iDynTree/Core/AngularForce\lVector3.h" alt="" coords="1163,259,1366,300"/>
+<area shape="rect" id="node40" href="$ForceVector3_8h.html" title="iDynTree/Core/ForceVector3.h" alt="" coords="1155,348,1369,375"/>
+</map>
